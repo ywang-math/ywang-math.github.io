@@ -6,6 +6,7 @@ title: Teaching
 
 I am not teaching this semester.
 
+#### Previous Teaching Experience
 
 Spring 2021: Grader of Math 312 (Linear Algebra).
 
