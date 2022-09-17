@@ -8,14 +8,14 @@ I am not teaching this semester.
 
 #### Previous Teaching Experience
 
-<mark>Spring 2021</mark>: Grader of Math 312 (Linear Algebra).
+**Spring 2021**: Math 312 (Linear Algebra).
 
-Fall 2020: Teaching assistant of Math 104 (Calculus I).
+**Fall 2020**: Math 104 (Calculus I).
 
-Spring 2020: Grader of Math 313 (Computational Linear Algebra)
+**Spring 2020**: Math 313 (Computational Linear Algebra)
 
-Fall 2019: Teachign assistant of Math 240 (Calculus III).
+**Fall 2019**: Teachign assistant of Math 240 (Calculus III).
 
-Spring 2017: Adjunct instructor of Math 16B (Calculus II for social science and enviromental science majors) at [Student Learning Center](https://slc.berkeley.edu) of UC Berkeley.
+**Spring 2017**: Math 16B (Calculus II for social and enviromental science majors) at [Student Learning Center](https://slc.berkeley.edu) of UC Berkeley.
 
 
