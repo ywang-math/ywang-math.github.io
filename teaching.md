@@ -8,7 +8,7 @@ I am not teaching this semester.
 
 #### Previous Teaching Experience
 
-Spring 2021: Grader of Math 312 (Linear Algebra).
+<mark>Spring 2021</mark>: Grader of Math 312 (Linear Algebra).
 
 Fall 2020: Teaching assistant of Math 104 (Calculus I).
 
