@@ -8,7 +8,6 @@ I am not teaching this semester.
 
 
 #### Spring 2021
-
 Grader of Math 312 (Linear Algebra).
 
 #### Fall 2020
