@@ -6,6 +6,6 @@ My research interests lie broadly in algebra, in particular the intersection wit
 
 (1). Arithmetic invariant theory of algebraic groups over rings. Manuscript in preparation.
 
-(2). The local-global principle over function fields of curves over excellent henselian discretely valued fields and its application to the generalized period-index problem.
+(2). The local-global principle over function fields of curves over excellent henselian discretely valued fields and its application to the generalized period-index problem. Manuscript in preparation.
 
 (3). Local-global principles in differential Galois theory.
