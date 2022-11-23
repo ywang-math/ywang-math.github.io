@@ -23,8 +23,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "CV_website.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: ""}
-  - {title: Github, icon: github, url: ""}
+  - {title: Mail, icon: envelope, url: "yidiwang@sas.upenn.edu"}
+  - {title: Github, icon: github, url: "https://github.com/ywang-math/"}
   - {title: Subscribe, icon: rss, url: ""}
   #- {title: Constrast Jekyll theme by Niklas Buschmann, url: "https://github.com/niklasbuschmann"}
 
