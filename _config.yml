@@ -1,6 +1,6 @@
 title: "Yidi Wang"
 author: "Yidi Wang"
-description: "University of Pennsylvania"
+description: {title: "University of Pennsylvania, url: https://www.upenn.edu"}
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
