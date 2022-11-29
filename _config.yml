@@ -23,9 +23,9 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "CV_website.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "yidiwang@sas.upenn.edu"}
+  #- {title: Mail, icon: envelope, url: "yidiwang@sas.upenn.edu"}
   - {title: Github, icon: github, url: "https://github.com/ywang-math/"}
-  - {title: Pingpong, icon: person-running, url: "https://pennpingpong.weebly.com"}
+  #- {title: Pingpong, icon: person-running, url: "https://pennpingpong.weebly.com"}
   #- {title: Constrast Jekyll theme by Niklas Buschmann, url: "https://github.com/niklasbuschmann"}
 
 comments:
