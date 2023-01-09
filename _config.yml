@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   #- {file: "about.html", title: "About"}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
-  - {url: "CV_website.pdf", title: "CV"}
+  - {url: "CV122722.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "yidiwang@sas.upenn.edu"}
