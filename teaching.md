@@ -2,9 +2,9 @@
 layout: page
 title: Teaching
 ---
-### Fall 2022
+### Spring 2023
 
-I am not teaching this semester.
+Math 3140 Advanced Linear Algebra.
 
 #### Previous Teaching Experience
 
