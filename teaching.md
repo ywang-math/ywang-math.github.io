@@ -2,11 +2,11 @@
 layout: page
 title: Teaching
 ---
-### Spring 2023
 
-Math 3140 Advanced Linear Algebra.
 
 #### Previous Teaching Experience
+
+**Spring 2023**: Math 3140 (Advanced Linear Algebra).
 
 **Spring 2021**: Math 312 (Linear Algebra).
 
