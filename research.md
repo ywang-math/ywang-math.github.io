@@ -11,7 +11,7 @@ I am in particular interested in the local aspects and the local-global principl
 
 (2). _Cohomology for the Picard-Vessiot theory._ Joint with [Man Cheung Tsui](https://manctsui.github.io/index.html). 19 pages. Preprint available at [arXiv:2308.03025](https://arxiv.org/abs/2308.03025).
 
-(1). _Arithmetic invariant theory of reductive groups._ 17 pages. Preprint available at [arXiv:2212.12863](https://arxiv.org/abs/2212.12863).
+(1). _Arithmetic invariant theory of reductive groups._ 17 pages. Submitted. Preprint available at [arXiv:2212.12863](https://arxiv.org/abs/2212.12863).
 
 
 ### Projects
