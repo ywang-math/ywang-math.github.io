@@ -15,8 +15,8 @@ I am in particular interested in the local aspects and the local-global principl
 
 
 ### Projects
-
-(2). Local-global prinicples for integral points on stacky curves. Joint with [Juanita Duque-Rosero](https://juanitaduquer.github.io), [Christopher Keyes](https://c-keyes.github.io), [Andrew Kobin](https://www.andrewkobin.com), [Manami Roy](https://faculty.fordham.edu/mroy17/) and [Soumya Sankar](https://sites.google.com/site/soumya3sankar/). In progress. 
+(3). Zero-cycles on stacky curves. Joint with [Caleb Ji](https://math.columbia.edu/~calebji/).
+(2). Local-global principles for integral points on stacky curves. Joint with [Juanita Duque-Rosero](https://juanitaduquer.github.io), [Christopher Keyes](https://c-keyes.github.io), [Andrew Kobin](https://www.andrewkobin.com), [Manami Roy](https://faculty.fordham.edu/mroy17/) and [Soumya Sankar](https://sites.google.com/site/soumya3sankar/). In progress. 
 
 (1). A local-global principle for differential torsors. In progress.
 
