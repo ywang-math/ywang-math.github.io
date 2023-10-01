@@ -2,8 +2,10 @@
 layout: post
 title: Research
 ---
+<p style="text-align: left">
 My research interests lie broadly in algebra, focusing on the intersection with algebraic and arithmetic geometry. 
 I am in particular interested in the local aspects and the local-global principles of algebraic objects. Recently, I also started thinking about the arithmetic of stacky curves. 
+</p>
 
 ### Publications and Preprints
 
@@ -21,12 +23,19 @@ I am in particular interested in the local aspects and the local-global principl
 
 
 ### Projects
-(3). Zero-cycles on stacky curves. Joint with [Caleb Ji](https://math.columbia.edu/~calebji/). In progress.
 
-(2). Local-global principles for integral points on stacky curves. Joint with [Juanita Duque-Rosero](https://juanitaduquer.github.io), [Christopher Keyes](https://c-keyes.github.io), [Andrew Kobin](https://www.andrewkobin.com), [Manami Roy](https://faculty.fordham.edu/mroy17/) and [Soumya Sankar](https://sites.google.com/site/soumya3sankar/). In progress. 
+<p style="text-align: left">
+(3). Zero-cycles on stacky curves. Joint with <a href="https://math.columbia.edu/~calebji/">Caleb Ji</a>. In progress.
+</p>
 
+
+<p style="text-align: left">
+(2). Local-global principles for integral points on stacky curves. Joint with <a href="https://juanitaduquer.github.io">Juanita Duque-Rosero</a>, <a href="https://c-keyes.github.io">Christopher Keyes</a>, <a href="https://www.andrewkobin.com">Andrew Kobin</a>, <a href="https://faculty.fordham.edu/mroy17/">Manami Roy</a>, <a href="https://sites.google.com/site/soumya3sankar/">Soumya Sankar</a>. In progress. 
+</p>
+
+<p style="text-align: left">
 (1). A local-global principle for differential torsors. In progress.
-
+</p>
 
 
 
