@@ -7,12 +7,13 @@ I am in particular interested in the local aspects and the local-global principl
 
 ### Publications and Preprints
 
-<div style="text-align: left"> (3). Local-global principles over Hensel semi-global fields and the application to the generalized period-index problem. Manuscript in preparation.
+<p style="text-align: left"> (3). Local-global principles over Hensel semi-global fields and the application to the generalized period-index problem. Manuscript in preparation.
 
-(2). _Cohomology for the Picard-Vessiot theory._ Joint with [Man Cheung Tsui](https://manctsui.github.io/index.html). 19 pages. Preprint available at [arXiv:2308.03025](https://arxiv.org/abs/2308.03025).
+(2). <em>Cohomology for the Picard-Vessiot theory.</em> Joint with <a href="https://manctsui.github.io/index.html">Man Cheung Tsui</a>. 19 pages. Preprint available at <a href="https://arxiv.org/abs/2308.03025">arXiv:2308.03025</a>.
 
-(1). _Arithmetic invariant theory of reductive groups._ 17 pages. Submitted. Preprint available at [arXiv:2212.12863](https://arxiv.org/abs/2212.12863). 
-</div>
+(1). <em>Arithmetic invariant theory of reductive groups.</em> 17 pages. Submitted. Preprint available at <a href="https://arxiv.org/abs/2212.12863">arXiv:2212.12863</a>. 
+
+</p>
 
 
 
