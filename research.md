@@ -13,11 +13,11 @@ I am in particular interested in the local aspects and the local-global principl
 </p>
 
 <p style="text-align: left">
-(2). <em>Cohomology for the Picard-Vessiot theory.</em> Joint with <a href="https://manctsui.github.io/index.html">Man Cheung Tsui</a>. 19 pages. Preprint available at <a href="https://arxiv.org/abs/2308.03025">arXiv:2308.03025</a>.
+(2). <em>Cohomology for Picard-Vessiot theory.</em> Joint with <a href="https://manctsui.github.io/index.html">Man Cheung Tsui</a>. 19 pages. Submitted. 2023 Preprint available at <a href="https://arxiv.org/abs/2308.03025">arXiv:2308.03025</a>.
 </p>
 
 <p style="text-align: left">
-(1). <em>Arithmetic invariant theory of reductive groups.</em> 17 pages. Submitted. Preprint available at <a href="https://arxiv.org/abs/2212.12863">arXiv:2212.12863</a>. 
+(1). <em>Arithmetic invariant theory of reductive groups.</em> 17 pages. Submitted. 2023 Preprint available at <a href="https://arxiv.org/abs/2212.12863">arXiv:2212.12863</a>. 
 </p>
 
 
