@@ -9,7 +9,7 @@ I am in particular interested in the local aspects and the local-global principl
 
 ### Publications and Preprints
 
-<p style="text-align: left"> (3). Local-global principles over Hensel semi-global fields and the application to the generalized period-index problem. Manuscript in preparation.
+<p style="text-align: left"> (3). <em>Patching for ‌&#233tale algebras and the period-index problem of higher degree Galois cohomology groups over Hensel semi-global fields.</em> 25 pages. 2023 Preprint available at <a href="https://arxiv.org/abs/2310.20119">arXiv:2310.20119</a>.
 </p>
 
 <p style="text-align: left">
