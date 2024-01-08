@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-***Fall 2023***
+***Spring 2024***
 
 I am not teaching this semester.
 
