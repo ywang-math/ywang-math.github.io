@@ -8,7 +8,7 @@ Here are the activities that I have been involved in math community.
 
 ### Directed Reading Program
 
-<p> I have been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students for the following topics:<br>
+<p style="text-align: left"> I have been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students for the following topics:<br>
   
                                 - Fall 2023: Algebraic geometry with Chenglu Wang <br>
   
