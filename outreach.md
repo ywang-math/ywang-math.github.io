@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Outreach
-mathjax: true
 ---
 <p style="text-align: left">
 Here are the activities that I have been involved in math community.
