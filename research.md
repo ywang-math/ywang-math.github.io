@@ -7,7 +7,7 @@ My research interests lie broadly in algebra, focusing on the intersection with 
 I am in particular interested in the local aspects and the local-global principles of algebraic objects. Recently, I also started thinking about the arithmetic of stacky curves. 
 </p>
 
-### Publications and Preprints
+## Publications and Preprints
 
 <p style="text-align: left"> (3). <em>Patching for ‌étale algebras and the period-index problem for higher degree Galois cohomology groups over Hensel semi-global fields.</em> 25 pages. Submitted. 2023 Preprint available at <a href="https://arxiv.org/abs/2310.20119">arXiv:2310.20119</a>.
 </p>
@@ -22,7 +22,7 @@ I am in particular interested in the local aspects and the local-global principl
 
 
 
-### Projects
+## Projects
 
 <p style="text-align: left">
 (3). Zero-cycles on stacky curves. Joint with <a href="https://math.columbia.edu/~calebji/">Caleb Ji</a>. In progress.
