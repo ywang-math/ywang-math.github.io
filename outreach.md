@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Outreach
+layout: post
 ---
 
 Here are the activities that I have been involved in math community.
