@@ -9,6 +9,13 @@ I am in particular interested in the local aspects and the local-global principl
 
 ### Publications and Preprints
 
+<ol reversed>
+  <li>Don't Stop Me Now</li>
+  <li>Under Pressure</li>
+  <li>We Are the Champions</li>
+  <li>Bohemian Rhapsody</li>
+</ol>
+
 <p style="text-align: left"> (3). <em>Patching for ‌étale algebras and the period-index problem for higher degree Galois cohomology groups over Hensel semi-global fields.</em> 25 pages. Submitted. 2023 Preprint available at <a href="https://arxiv.org/abs/2310.20119">arXiv:2310.20119</a>.
 </p>
 
