@@ -26,18 +26,7 @@ I am in particular interested in the local aspects and the local-global principl
   <li>A local-global principle for differential torsors. In progress. </li>
 </ol>
 
-<p style="text-align: left">
-(3). Zero-cycles on stacky curves. Joint with <a href="https://math.columbia.edu/~calebji/">Caleb Ji</a>. In progress.
-</p>
 
-
-<p style="text-align: left">
-(2). Local-global principles for integral points on stacky curves. Joint with <a href="https://juanitaduquer.github.io">Juanita Duque-Rosero</a>, <a href="https://c-keyes.github.io">Christopher Keyes</a>, <a href="https://www.andrewkobin.com">Andrew Kobin</a>, <a href="https://faculty.fordham.edu/mroy17/">Manami Roy</a>, <a href="https://sites.google.com/site/soumya3sankar/">Soumya Sankar</a>. In progress. 
-</p>
-
-<p style="text-align: left">
-(1). A local-global principle for differential torsors. In progress.
-</p>
 
 
 
