@@ -8,11 +8,11 @@ Here are the activities that I have been involved in math community.
 
 ### Directed Reading Program
 
-<p style="text-align: left"> I have been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students for the following topics:<br>
+<p style="text-align: left"> I have been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students for the following topics $x^2$:<br>
   \begin{itemize}
-      \item Fall 2023: Algebraic geometry with Chenglu Wang <br>
-      \item Spring 2023: Étale cohomology with Santiago Velazquez <br>
-      \item Spring 2022: Elliptic curves with Suryansh Loya <br>
+      \item Fall 2023: Algebraic geometry with Chenglu Wang 
+      \item Spring 2023: Étale cohomology with Santiago Velazquez 
+      \item Spring 2022: Elliptic curves with Suryansh Loya 
   \end{itemize}
 </p>
 
