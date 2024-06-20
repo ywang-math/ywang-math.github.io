@@ -11,8 +11,9 @@ In July 2024, I will be the director for the <a href = "[https://web.sas.upenn.e
 
 ### Directed Reading Program
 
-I have been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students for the following topics :
+I had been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students at the Univeristy of Pennsylvania for the following topics :
 
+* Spring 2024: Stacks and moduli with Chenglu Wang
 * Fall 2023: Algebraic geometry with Chenglu Wang 
 * Spring 2023: Étale cohomology with Santiago Velazquez 
 * Spring 2022: Elliptic curves with Suryansh Loya 
