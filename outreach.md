@@ -19,12 +19,12 @@ I had been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Dir
 * Spring 2022: Elliptic curves with Suryansh Loya 
 
 ### PTI
-I am a volunteer instructor for <a href = "https://dof.princeton.edu/faculty-retiree-handbook/teaching-opportunities/prison-teaching-initiative">Princeton Prison Teaching Initative</a> to teach incarcerated students college-accredited math courses in different levels.  
+I was a volunteer instructor for <a href = "https://dof.princeton.edu/faculty-retiree-handbook/teaching-opportunities/prison-teaching-initiative">Princeton Prison Teaching Initative</a> to teach incarcerated students college-accredited math courses in different levels.  
 
 
 ### Math Circles
 
-I am a volunteer for Math Circles at West Philadelphia High School.
+I was a volunteer for Math Circles at West Philadelphia High School. Here is an article about me and my cohort in the <a href= "https://omnia.sas.upenn.edu/story/getting-creative-to-communicate-science">Ominia article </a>.
 
 
 
