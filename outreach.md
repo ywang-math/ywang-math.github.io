@@ -5,6 +5,9 @@ layout: post
 
 Here are the activities that I have been involved in math community.
 
+### Penn Summer Mathematics Academy
+
+In July 2024, I will be the director for the <a href = "[https://web.sas.upenn.edu/math-drp/](https://hs.sas.upenn.edu/summer-programs/academies/mathematics)"> Mathematics Academy </a> for high school students at the University of Pennsylvania.
 
 ### Directed Reading Program
 
