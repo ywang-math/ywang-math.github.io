@@ -11,7 +11,7 @@ I am in particular interested in the local aspects and the local-global principl
 
 <ol reversed>
   <li><em>Patching for ‌étale algebras and the period-index problem for higher degree Galois cohomology groups over Hensel semi-global fields.</em> 25 pages. Submitted. 2023 Preprint available at <a href="https://arxiv.org/abs/2310.20119">arXiv:2310.20119</a>.</li>
-  <li><em>Cohomology for Picard-Vessiot theory.</em> Joint with <a href="https://manctsui.github.io/index.html">Man Cheung Tsui</a>. 2023 Preprint available at <a href="https://arxiv.org/abs/2308.03025">arXiv:2308.03025</a>. Accepted to publish in Journal of Algebra. </li>
+  <li><em>Cohomology for Picard-Vessiot theory.</em> Joint with <a href="https://manctsui.github.io/index.html">Man Cheung Tsui</a>. Journal of Algebra,vol 658 (2024) 49-72. Also available at <a href="https://arxiv.org/abs/2308.03025">arXiv:2308.03025</a>. </li>
   <li><em>Arithmetic invariant theory of reductive groups.</em> 21 pages. Submitted. 2023 Preprint available at <a href="https://arxiv.org/abs/2212.12863">arXiv:2212.12863</a>. </li>
 </ol>
 
