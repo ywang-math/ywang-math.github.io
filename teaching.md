@@ -2,9 +2,9 @@
 layout: page
 title: Teaching
 ---
-***Spring 2024***
+***Fall 2024***
 
-I am not teaching this semester.
+Math 1600: Linear algebra. Please go to [OWL](https://wts.uwo.ca/owl/) for course materials.
 
 #### Previous Teaching Experience
 
