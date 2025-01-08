@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-***Fall 2024***
+***Winter 2025***
 
 Math 2156: Mathematical Structures II. Please go to [OWL](https://wts.uwo.ca/owl/) for course materials.
 
