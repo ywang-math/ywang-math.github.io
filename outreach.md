@@ -11,8 +11,9 @@ In July 2024, I was the director for the <a href = "https://hs.sas.upenn.edu/sum
 
 ### Directed Reading Program
 
-I had been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students at the Univeristy of Pennsylvania for the following topics :
+I had been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students at the University of Western Ontario and Univeristy of Pennsylvania for the following topics :
 
+* Winter 2025: Invariant theory of linear algebraic groups with Jeffrey Li
 * Spring 2024: Stacks and moduli with Chenglu Wang
 * Fall 2023: Algebraic geometry with Chenglu Wang 
 * Spring 2023: Étale cohomology with Santiago Velazquez 
