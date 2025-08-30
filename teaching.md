@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-***Fall2025***
+***Fall 2025***
 
 Math 1600: Linear Algebra. Please go to [OWL](https://wts.uwo.ca/owl/) for course materials.
 
