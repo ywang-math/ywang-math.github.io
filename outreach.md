@@ -5,6 +5,14 @@ layout: post
 
 Here are the activities that I have been involved in math community.
 
+### UpMath 2025
+
+In July-August 2025, I was the instructor for the UpMath program, a preparatory course for incoming first year students.
+
+### Western $\beta$-Camp
+
+In July 2025, I participated in the Western $\beta$-camp for 8th grade students.
+
 ### Penn Summer Mathematics Academy
 
 In July 2024, I was the director for the <a href = "https://hs.sas.upenn.edu/summer-programs/academies/mathematics"> Mathematics Academy </a> for high school students at the University of Pennsylvania.
