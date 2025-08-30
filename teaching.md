@@ -2,12 +2,13 @@
 layout: page
 title: Teaching
 ---
-***Winter 2025***
+***Fall2025***
 
-Math 2156: Mathematical Structures II. Please go to [OWL](https://wts.uwo.ca/owl/) for course materials.
+Math 1600: Linear Algebra. Please go to [OWL](https://wts.uwo.ca/owl/) for course materials.
 
 #### Previous Teaching Experience
 
+* Winter 2025: Math 2156 (Mathematical Structures II).
 * Fall 2024: Math 1600 (Linear Algebra).
 * Spring 2023: Math 3140 (Advanced Linear Algebra).
 * Spring 2021: Math 312 (Linear Algebra).
