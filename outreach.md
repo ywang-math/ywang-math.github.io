@@ -9,9 +9,9 @@ Here are the activities that I have been involved in math community.
 
 In July-August 2025, I was the instructor for the UpMath program, a preparatory course for incoming first year students.
 
-### Western $\beta$-Camp
+### Western beta-Camp
 
-In July 2025, I participated in the Western $\beta$-camp for 8th grade students.
+In July 2025, I participated in the Western beta-camp, a summer math camp for 8th grade students.
 
 ### Penn Summer Mathematics Academy
 
