@@ -1,7 +1,8 @@
 ---
-title: Outreach
+title: "Outreach"
 layout: post
 mathjax: true
+categories: media
 ---
 
 Here are the activities that I have been involved in math community.
@@ -10,7 +11,7 @@ Here are the activities that I have been involved in math community.
 
 In July-August 2025, I was the instructor for the UpMath program, a preparatory course for incoming first year students.
 
-### Western $\beta$-Camp
+### Western $$\beta$$-Camp
 
 In July 2025, I participated in the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $\beta$-camp</a>, a summer math camp for students of 8th grade.
 
