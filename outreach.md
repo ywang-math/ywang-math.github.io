@@ -21,7 +21,7 @@ In July 2024, I was the director for the <a href = "https://hs.sas.upenn.edu/sum
 
 ### Directed Reading Program
 
-I had been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students at the University of Western Ontario and Univeristy of Pennsylvania for the following topics :
+I had been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Directed Reading Program </a> for undergraduate students at the University of Western Ontario and the Univeristy of Pennsylvania for the following topics :
 
 * Winter 2025: Invariant theory of linear algebraic groups with Jeffrey Li
 * Spring 2024: Stacks and moduli with Chenglu Wang
@@ -29,8 +29,8 @@ I had been a mentor for the <a href = "https://web.sas.upenn.edu/math-drp/"> Dir
 * Spring 2023: Étale cohomology with Santiago Velazquez 
 * Spring 2022: Elliptic curves with Suryansh Loya 
 
-### PTI
-I was a volunteer instructor for <a href = "https://dof.princeton.edu/faculty-retiree-handbook/teaching-opportunities/prison-teaching-initiative">Princeton Prison Teaching Initative</a> to teach incarcerated students college-accredited math courses in different levels.  
+### Prison Teaching Initiative
+In 2023-2024, I was a volunteer instructor for <a href = "https://dof.princeton.edu/faculty-retiree-handbook/teaching-opportunities/prison-teaching-initiative">Princeton Prison Teaching Initative</a> to teach incarcerated students college-accredited math courses in different levels.  
 
 
 ### Math Circles
