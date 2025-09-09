@@ -4,7 +4,7 @@ title: Research
 ---
 <p style="text-align: left">
 My research interests lie broadly in algebra, focusing on the intersection with algebraic and arithmetic geometry. 
-I am in particular interested in the local aspects and the local-global principles of algebraic objects. Recently, I also started thinking about the arithmetic of stacky curves. 
+I am in particular interested in the local aspects and the local-global principles of algebraic objects, as well as their obstructions. Recently, I also started thinking about the arithmetic of stacky curves. 
 </p>
 
 ### Publications and Preprints
