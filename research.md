@@ -5,10 +5,11 @@ title: Research
 <p style="text-align: left">
 My research interests lie broadly in algebra, focusing on the intersection with algebraic and arithmetic geometry and algebraic number theory. 
 I am in particular interested in the local aspects and the local-global principles of algebraic objects, as well as their obstructions in the following directions:
+</p>
+
   * Patching for arithmetic curves and local-global principles.
   * The arithmetic of algebraic stacks with applications to number theory.
   * Topics that are broadly related to algebraic groups, such as invariant theory, differetial Galois theory and toric varieties.
-</p>
 
 ### Publications and Preprints
 
