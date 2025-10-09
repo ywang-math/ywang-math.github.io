@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "research.md", title: "Research"}
   - {file: "teaching.md", title: "Teaching"}
   - {file: "outreach.md", title: "Outreach"}
-  - {url: "CV101824.pdf", title: "CV"}
+  - {url: "CV-Yidi-Wang-100925.pdf", title: "CV"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   #- {title: Mail, icon: envelope, url: "ywan6443@uwo.ca"}
