@@ -7,6 +7,10 @@ categories: media
 
 Here are the activities that I have been involved in math community.
 
+### Canadian Open Mathematical Challenge
+
+In November 2025, I was a volunteer for the <a href = "https://cms.math.ca/competitions/comc/comc2024/"> Canadian Open Mathematical Challenge</a> organized for by the <a href = "https://cms.math.ca"> Canadian Mathematical Society</a>.
+
 ### UpMath 2025
 
 In July-August 2025, I was the instructor for the UpMath program, a preparatory course for incoming first year students.
