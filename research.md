@@ -14,7 +14,7 @@ I am in particular interested in the local aspects and the local-global principl
 ### Publications and Preprints
 
 <ol reversed>
-  <li> The étale Brauer-Manin obstruction for classifying stacks. Joint with <a href = "https://www.math.uwo.ca/faculty/dhillon/index.html">Ajneet Dhillon</a>, <a href = "https://gdenham.math.uwo.ca/nlemire/">Nicole Lemire</a> and Jonathan Martin. Manuscript in preparation. </li>
+  <li> The étale Brauer-Manin obstruction for classifying stacks. Joint with <a href = "https://www.math.uwo.ca/faculty/dhillon/index.html">Ajneet Dhillon</a>, <a href = "https://gdenham.math.uwo.ca/nlemire/">Nicole Lemire</a> and Jonathan Martin. To appear on arXiv. </li>
   <li><em>The integral Hasse principle for stacky curves associated to a family of generalized Fermat equations.</em> Joint with <a href="https://juanitaduquer.github.io">Juanita Duque-Rosero</a>, <a href="https://c-keyes.github.io">Christopher Keyes</a>, <a href="https://www.andrewkobin.com">Andrew Kobin</a>, <a href="https://faculty.fordham.edu/mroy17/">Manami Roy</a>, and <a href="https://sites.google.com/site/soumya3sankar/">Soumya Sankar</a>. 41 pages. 2025 Preprint available at <a href = "https://arxiv.org/abs/2509.13248">arXiv:2509.13248</a>. </li>
   <li><em>Patching for ‌étale algebras and the period-index problem for higher degree Galois cohomology groups over Hensel semi-global fields.</em> 25 pages. Submitted. 2023 Preprint available at <a href="https://arxiv.org/abs/2310.20119">arXiv:2310.20119</a>.</li>
   <li><em>Cohomology for Picard-Vessiot theory.</em> Joint with <a href="https://manctsui.github.io/index.html">Man Cheung Tsui</a>. Journal of Algebra,vol 658 (2024) 49-72. Also available at <a href="https://arxiv.org/abs/2308.03025">arXiv:2308.03025</a>. </li>
