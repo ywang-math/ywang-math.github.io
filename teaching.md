@@ -2,12 +2,13 @@
 layout: page
 title: Teaching
 ---
-***Fall 2025***
+***Winter 2026***
 
-Math 1600: Linear Algebra. Please go to [OWL](https://wts.uwo.ca/owl/) for course materials.
+I am not teaching this semester.
 
 #### Previous Teaching Experience
 
+* Fall 2025: Math 1600 (Linear Algebra).
 * Summer 2025: UpMath (Preparatory course for first year math courses).
 * Winter 2025: Math 2156 (Mathematical Structures II).
 * Fall 2024: Math 1600 (Linear Algebra).
