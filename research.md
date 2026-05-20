@@ -9,7 +9,7 @@ I am in particular interested in the local aspects and the local-global principl
 
   * Patching for arithmetic curves and local-global principles.
   * The arithmetic of algebraic stacks with applications to number theory.
-  * Topics that are broadly related to algebraic groups, such as invariant theory, differetial Galois theory and toric varieties.
+  * Topics that are broadly related to algebraic groups, such as invariant theory, differetial Galois theory, etc.
 
 ### Publications and Preprints
 
