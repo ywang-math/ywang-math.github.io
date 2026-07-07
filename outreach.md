@@ -7,6 +7,12 @@ categories: media
 
 Here are the activities that I have been involved in math community.
 
+### Western $$\beta$$-Camp
+
+In July 2026, I will participate in the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\theta$$-camp</a>, a summer math camp for students of 10th grade.
+
+In July 2025, I participated in the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\beta$$-camp</a>, a summer math camp for students of 8th grade.
+
 ### Canadian Open Mathematical Challenge
 
 In November 2025, I was a volunteer for the <a href = "https://cms.math.ca/competitions/comc/comc2024/"> Canadian Open Mathematical Challenge</a> organized for by the <a href = "https://cms.math.ca"> Canadian Mathematical Society</a>.
@@ -14,10 +20,6 @@ In November 2025, I was a volunteer for the <a href = "https://cms.math.ca/compe
 ### UpMath 2025
 
 In July-August 2025, I was the instructor for the UpMath program, a preparatory course for incoming first year students.
-
-### Western $$\beta$$-Camp
-
-In July 2025, I participated in the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\beta$$-camp</a>, a summer math camp for students of 8th grade.
 
 ### Penn Summer Mathematics Academy
 
