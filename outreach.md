@@ -7,7 +7,7 @@ categories: media
 
 Here are the activities that I have been involved in math community.
 
-### Western $$\beta$$-Camp
+### Western Summer Math Camps
 
 In July 2026, I will participate in the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\theta$$-camp</a>, a summer math camp for students of 10th grade.
 
