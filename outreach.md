@@ -9,9 +9,9 @@ Here are the activities that I have been involved in math community.
 
 ### Western Summer Math Camps
 
-In July 2026, I will participate in the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\theta$$-camp</a>, a summer math camp for students of 10th grade.
+In July 2026, I was a guest lecturer for the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\theta$$-camp</a>, a summer math camp for students of 10th grade.
 
-In July 2025, I participated in the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\beta$$-camp</a>, a summer math camp for students of 8th grade.
+In July 2025, I was a guest lecturer for the <a href = "https://www.math.uwo.ca/outreach/math_camp/index.html">Western $$\beta$$-camp</a>, a summer math camp for students of 8th grade.
 
 ### Canadian Open Mathematical Challenge
 
