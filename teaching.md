@@ -2,11 +2,6 @@
 layout: page
 title: Teaching
 ---
-***Winter 2026***
-
-I am not teaching this semester.
-
-#### Previous Teaching Experience
 
 * Fall 2025: Math 1600 (Linear Algebra).
 * Summer 2025: UpMath (Preparatory course for first year math courses).
